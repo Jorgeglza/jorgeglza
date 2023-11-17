@@ -1,23 +1,29 @@
-<h1 align="center"># Hello, World! 👋</h1>
+<h1 align="center">🚀 Hello, World! I'm Jorge Gonzalez 👋</h1>
 
-<p align="center">I'm Jorge Gonzalez, a passionate Business Analytics enthusiast from Mexico, currently living in Madrid. Welcome to my GitHub profile!</p>
+<p align="center">Passionate about turning data into insights and driving decisions. Business Analytics enthusiast based in Madrid, originally from Mexico.</p>
 
-## About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/jorge-gonzz/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jorge%20Gonzalez-blue?style=flat-square&logo=linkedin">
+  </a>
+</p>
 
-- 🔭 I’m currently working on Sport Analytics.
-- 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking to collaborate on Data Analytics projects.
-- 💬 Ask me about Statistics, Data visualization, and Finance.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jorge-gonzz/)
+## 🌱 About Me
 
-## Tech Stack
+- 🔭 Currently working on leveraging data for Sport Analytics.
+- 📚 Learning and exploring the vast world of Machine Learning.
+- 👯 Open to collaborating on exciting Data Analytics projects.
+- 💬 Ask me about Statistics, Data Visualization, and Finance.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jorge-gonzz/).
 
-- **Programming Languages:** VBA, Python, and SQL.
-- **Web Technologies:** Dataiku, Tableau, Nifi, HDFS.
-- **Databases:** [List of Databases]
-- **Tools & Frameworks:** [List of Tools & Frameworks]
+## 💻 Tech Stack
 
-## Projects
+- **Languages:** VBA, Python, SQL.
+- **Web Technologies:** Dataiku, Tableau, Apache Nifi, HDFS.
+- **Databases:** MySQL, PostgreSQL.
+- **Tools & Frameworks:** Jupyter, Pandas, Scikit-learn, Docker.
+
+## 🚀 Projects
 
 Here are some projects I'm proud of:
 
@@ -25,13 +31,13 @@ Here are some projects I'm proud of:
 2. [Project 2](Link to Project 2): Short description.
 3. [Project 3](Link to Project 3): Short description.
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub Stats">
 </p>
 
-## Connect with Me
+## 🤝 Connect with Me
 
 - **LinkedIn:** [Jorge Gonzalez](https://www.linkedin.com/in/jorge-gonzz/)
 
