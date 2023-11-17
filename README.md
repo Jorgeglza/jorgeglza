@@ -14,7 +14,6 @@
 - 📚 Learning and exploring the vast world of Machine Learning.
 - 👯 Open to collaborating on exciting Data Analytics projects.
 - 💬 Ask me about Statistics, Data Visualization, and Finance.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jorge-gonzz/).
 
 ## 💻 Tech Stack
 
